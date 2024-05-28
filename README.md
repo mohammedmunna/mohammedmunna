@@ -1,6 +1,6 @@
 ### Hi there, I'm Munna 👋
 
-I'm a passionate developer with a keen interest in web development and cloud computing.
+I'm a passionate developer with a keen interest in *web development* and *cloud computing*.
 
 ## 📦 Toolbox
 
